@@ -1,0 +1,15 @@
+{
+  "name": "myntra-clone",
+  "version": "1.0.0",
+  "description": "Myntra Clone Overview This project is a clone of the popular online fashion shopping platform Myntra. It aims to replicate the functionality and design of the original Myntra website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
